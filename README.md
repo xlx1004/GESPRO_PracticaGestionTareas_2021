@@ -7,3 +7,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 - [Álvaro Manjón Vara](https://github.com/xmv1001)
 - [María Alonso Peláez](https://github.com/map101000)
 - [Xinru Liu](https://github.com/xlx1004)
+- [Jonás Martínez Sanllorente](https://github.com/jms1008)
