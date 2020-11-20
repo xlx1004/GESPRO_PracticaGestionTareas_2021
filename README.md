@@ -5,3 +5,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 **Incluid debajo el nombre de los miembros del grupo:**
 - [Álvaro Manjón Vara](https://github.com/xmv1001)
+- [María Alonso Peláez](https://github.com/map101000)
