@@ -5,6 +5,6 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 
 **Incluid debajo el nombre de los miembros del grupo:**
 - [Álvaro Manjón Vara](https://github.com/xmv1001)
-- [María Alonso Peláez](https://github.com/map101000)
+- [María Alonso Peláez](https://github.com/map10100)
 - [Xinru Liu](https://github.com/xlx1004)
 - [Jonás Martínez Sanllorente](https://github.com/jms1008)
